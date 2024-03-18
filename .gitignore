@@ -1,0 +1,6 @@
+.env
+project1_environment/
+requirements.in
+requirements_dev.in
+data/raw/
+notebooks/clean_data_confidential.ipynb
